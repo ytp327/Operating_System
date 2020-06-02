@@ -1,3 +1,6 @@
+Description:
+In this project, we need to implement a CPU scheduler in Operating System.
+
 How to run:
 1. in this directory use Makefile to make executable file: sched
 $ make
